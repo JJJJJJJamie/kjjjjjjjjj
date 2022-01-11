@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!-- Website Template by freewebsitetemplates.com -->
+<html>
+
+  <body style="background-color:#FDF9EF;">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>懶人快速簡介</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
+	<script type="text/javascript" src="js/mobile.js"></script>
+</head>
+<body>
+	<center>
+	<div id="header">
+		<a href="index.html" class="logo">
+			<img width="300" height="130"src="https://pbs.twimg.com/media/FIupMsmaIAcspEB?format=jpg&name=small" alt="">
+		</a>
+		<h1>
+		<ul id="navigation">
+			<li>
+				<a href="index.html">home</a>
+			</li>
+			<li>
+				<a href="懶人快速簡介.html">懶人快速簡介</a>
+			</li>
+			<li>
+				<a href="為什麼白化.html">為什麼白化</a>
+			</li>
+			<li>
+				<a href="白化代表什麼.html">白化代表什麼</a>
+			</li>
+			<li>
+				<a href="白化後能復原嗎.html">白化後能復原嗎</a>
+			</li>
+			<li>
+				<a href="三大訴求.html">三大訴求</a>
+			</li>
+			<li>
+				<a href="css3.html">客語翻譯系統</a>
+			</li>
+		</ul>
+	    </h1>
+	</div>
+	<div id="body">
+		<center>
+		<br>
+		<div>
+			<img width="1300" height="700"  src="https://pbs.twimg.com/media/FIvhVLhagAEZluP?format=jpg&name=large" alt="">
+        </center>
+        <span style="color:#ffffff; background-color:#606055">(  點  擊  下  方  圖  片  了  解  更  多  )</span>
+            <ul>
+			<li>
+				<a href="為什麼白化.html">
+					<img src="https://pbs.twimg.com/media/FIvpq8jagAIe-tV?format=jpg&name=360x360" alt="">
+				
+				<br>	 
+				<h3>         珊瑚適合生長     </h3>
+				<h3>      在20~28C的海水中    </h3>
+				<h3>         當溫度上升       </h3>
+			    <h3>       加上海洋污染等     </h3>
+			    <h3>        其他壓力因素      </h3>
+				<h3>       耐熱較弱的珊瑚      </h3>
+				<h3>      便開始排出共生藻     </h3>
+				</a>
+			</li>
+			<li>
+				<a href="白化代表什麼.html">
+					<img src="https://pbs.twimg.com/media/FIvpq8daAAYIKbs?format=jpg&name=360x360" ;>
+					<br>
+					 
+				<br>	 
+			    <h3>        珊瑚是對環境       </h3>
+			    <h3>       非常敏感的生物      </h3>
+			    <h3>       珊瑚生病(白化)      </h3>
+			    <h3>       代表海洋環境改      </h3>
+				    <h3>連帶影響海洋生物多樣性</h3>
+					
+				</a>
+			</li>
+			<li>
+				<a href="白化後能復原嗎.html">
+					<img src="https://pbs.twimg.com/media/FIvpq8iakAY_gvd?format=jpg&name=360x360" alt="">
+				
+				<br>	                 
+                 <h3>      初期的白化        </h3>
+                 <h3>    就像人體感冒一樣     </h3>
+                 <h3>     當環境變好了        </h3>
+                 <h3>     珊瑚蟲恢復健康      </h3>
+                 <h3> 共生藻就可能回到珊瑚體內  </h3>
+                 <h3>      恢復共生關係       </h3>
+                 <h3>   呈現出多彩的健康樣貌    </h3>
+                    
+				</a>
+			</li>
+		</ul>
+
+
+			
+	</div>
+	<div id="footer">
+		<div>
+			<center>
+			<h2 style="color:#FDF9EF">@  珊  瑚  白  化  懶  人  包</h2>
+			</center>
+		</div>
+</body>
+</html>
